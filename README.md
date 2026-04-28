@@ -3,8 +3,8 @@
 Repository dedicated to documenting my evolution in the .NET ecosystem.
 
 ## 🚀 Projects
-* **01 - Car Rental System**: Study of Interfaces and Tax Services.
-* **02 - Contract Processing**: Practice with Interfaces and Payment Services (PayPal).
+* **01 - Car Rental System**: Interface and Tax Services studies.
+* **02 - Contract Processing**: Interface and PayPal integration studies.
 
 ## 🛠 Tech Stack
 * C# / .NET
