@@ -5,6 +5,7 @@ Repository dedicated to documenting my evolution in the .NET ecosystem.
 ## 🚀 Projects
 * **01 - Car Rental System**: Interface and Tax Services studies.
 * **02 - Contract Processing**: Interface and PayPal integration studies.
+* **03 - PrintService:** Generics implementation.
 
 ## 🛠 Tech Stack
 * C# / .NET
