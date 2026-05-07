@@ -6,6 +6,7 @@ Repository dedicated to documenting my evolution in the .NET ecosystem.
 * **01 - Car Rental System**: Interface and Tax Services studies.
 * **02 - Contract Processing**: Interface and PayPal integration studies.
 * **03 - PrintService:** Generics implementation.
+* **04 - CalculationService:** Generic constraints and IComparable studies .
 
 ## 🛠 Tech Stack
 * C# / .NET
