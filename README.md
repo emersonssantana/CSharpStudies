@@ -9,6 +9,7 @@ Repository dedicated to documenting my evolution in the .NET ecosystem.
 * **04 - CalculationService:** Generic constraints and IComparable studies.
 * **05 - HashSet Equality Test:** Reference vs Value types and HashCode studies.
 * **06 - LogAnalysis:** HashSet and unique elements processing studies.
+* **07 - Course Students:** Implement unique student counter with HashSet and UnionWith.
 
 ## 🛠 Tech Stack
 * C# / .NET
