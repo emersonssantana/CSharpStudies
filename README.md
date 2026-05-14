@@ -10,6 +10,7 @@ Repository dedicated to documenting my evolution in the .NET ecosystem.
 * **05 - HashSet Equality Test:** Reference vs Value types and HashCode studies.
 * **06 - LogAnalysis:** HashSet and unique elements processing studies.
 * **07 - Course Students:** Implement unique student counter with HashSet and UnionWith.
+* **08 - Voting Report:** Dictionary and data consolidation studies.
 
 ## 🛠 Tech Stack
 * C# / .NET
