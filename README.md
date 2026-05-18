@@ -12,6 +12,7 @@ Repository dedicated to documenting my evolution in the .NET ecosystem.
 * **07 - Course Students:** Implement unique student counter with HashSet and UnionWith.
 * **08 - Voting Report:** Dictionary and data consolidation studies.
 * **09 - DateTime Extensions:** Extension methods and elapsed time processing studies.
+* **10 - String Extensions:** Extension methods and custom string manipulation studies.
 
 ## 🛠 Tech Stack
 * C# / .NET
