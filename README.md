@@ -2,7 +2,7 @@
 
 Repository dedicated to documenting my evolution in the .NET ecosystem.
 
-## 🚀 Projects
+## 🚀 Practical Exercises
 * **01 - Car Rental System**: Interface and Tax Services studies.
 * **02 - Contract Processing**: Interface and PayPal integration studies.
 * **03 - PrintService:** Generics implementation.
@@ -16,7 +16,16 @@ Repository dedicated to documenting my evolution in the .NET ecosystem.
 * **11 - Product Sorting:** Comparison<T> and lambda expressions studies.
 * **12 - Linq Demo:** LINQ and lambda expressions studies.
 
-## 🛠 Tech Stack
-* C# / .NET
-* Object-Oriented Programming (OOP)
-* Git & GitHub
+### 🛠️ Tech Stack & Core Concepts
+* **Language & Ecosystem:** C# / .NET (.NET Core)
+* **Web Architecture:** ASP.NET Core MVC
+* **Data Persistence:** Entity Framework Core & SQL Server
+* **Paradigm:** Object-Oriented Programming (OOP)
+* **Version Control:** Git & GitHub
+* **Development Tools:** Visual Studio & VS Code
+* **Language & Ecosystem:** C# / .NET (.NET Core)
+* **Web Architecture:** ASP.NET Core MVC
+* **Data Persistence:** Entity Framework Core & SQL Server
+* **Paradigm:** Object-Oriented Programming (OOP)
+* **Version Control:** Git & GitHub
+* **Development Tools:** Visual Studio & VS Code
