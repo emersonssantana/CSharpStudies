@@ -17,6 +17,7 @@ Repository dedicated to documenting my evolution in the .NET ecosystem.
 * **12 - Linq Demo:** LINQ and lambda expressions studies.
 
 ### 🛠️ Tech Stack & Core Concepts
+---
 * **Language & Ecosystem:** C# / .NET (.NET Core)
 * **Web Architecture:** ASP.NET Core MVC
 * **Data Persistence:** Entity Framework Core & SQL Server
