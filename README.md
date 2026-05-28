@@ -14,6 +14,7 @@ Repository dedicated to documenting my evolution in the .NET ecosystem.
 * **09 - DateTime Extensions:** Extension methods and elapsed time processing studies.
 * **10 - String Extensions:** Extension methods and custom string manipulation studies.
 * **11 - Product Sorting:** Comparison<T> and lambda expressions studies.
+* **12 - Linq Demo:** LINQ and lambda expressions studies.
 
 ## 🛠 Tech Stack
 * C# / .NET
