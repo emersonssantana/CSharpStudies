@@ -23,9 +23,3 @@ Repository dedicated to documenting my evolution in the .NET ecosystem.
 * **Paradigm:** Object-Oriented Programming (OOP)
 * **Version Control:** Git & GitHub
 * **Development Tools:** Visual Studio & VS Code
-* **Language & Ecosystem:** C# / .NET (.NET Core)
-* **Web Architecture:** ASP.NET Core MVC
-* **Data Persistence:** Entity Framework Core & SQL Server
-* **Paradigm:** Object-Oriented Programming (OOP)
-* **Version Control:** Git & GitHub
-* **Development Tools:** Visual Studio & VS Code
