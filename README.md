@@ -15,6 +15,7 @@ Repository dedicated to documenting my evolution in the .NET ecosystem.
 * **10 - String Extensions:** Extension methods and custom string manipulation studies.
 * **11 - Product Sorting:** Comparison<T> and lambda expressions studies.
 * **12 - Linq Demo:** LINQ and lambda expressions studies.
+* **13 - Linq Demo:** LINQ and SQL similar notation studies.
 
 ## 🛠️ Tech Stack & Core Concepts
 * **Language & Ecosystem:** C# / .NET (.NET Core)
