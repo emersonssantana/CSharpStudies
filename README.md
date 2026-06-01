@@ -17,6 +17,7 @@ Repository dedicated to documenting my evolution in the .NET ecosystem.
 * **12 - Linq Demo:** LINQ and lambda expressions studies.
 * **13 - Linq Demo:** LINQ and SQL similar notation studies.
 * **14 - Product Processing:** LINQ, lambda expressions and file processing integration studies.
+* **15 - Employee Processing:** LINQ, lambda expressions and data aggregation studies.
 
 ## 🛠️ Tech Stack & Core Concepts
 * **Language & Ecosystem:** C# / .NET (.NET Core)
