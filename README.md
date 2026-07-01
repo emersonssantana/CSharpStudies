@@ -2,7 +2,7 @@
 
 Repository dedicated to documenting my evolution in the .NET ecosystem.
 
-## 🚀 Practical Exercises
+## 🧠 Practical Exercises
 * **01 - Car Rental System**: Interface and Tax Services studies.
 * **02 - Contract Processing**: Interface and PayPal integration studies.
 * **03 - PrintService:** Generics implementation.
@@ -26,3 +26,8 @@ Repository dedicated to documenting my evolution in the .NET ecosystem.
 * **Paradigm:** Object-Oriented Programming (OOP)
 * **Version Control:** Git & GitHub
 * **Development Tools:** Visual Studio & VS Code
+
+## 🚀 Full Projects
+If you want to see a full web application I developed, check out my [SalesWebMvc](https://github.com/emersonssantana/SalesWebMvc) project, which focuses on ASP.NET Core MVC and database integration.
+
+Additionally, you can explore my [ChessSystemConsole](https://github.com/emersonssantana/chess-system-console) project, which demonstrates advanced Object-Oriented Programming (OOP) and matrix manipulation in C#.
